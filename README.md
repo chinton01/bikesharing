@@ -44,3 +44,5 @@ e
 ![bubble_vis](https://user-images.githubusercontent.com/90741799/148675132-f8ebd12c-7f53-4b94-a8df-544ec09414bb.png)
 
 [link to dashboard](https://public.tableau.com/app/profile/cherrelle8612/viz/BikeshareChallengeDashboard/ChallengeDashboard?publish=yes)
+[link to story](https://public.tableau.com/app/profile/cherrelle8612/viz/BikeshareChallenge_16417148513860/Story1?publish=yes)
+
