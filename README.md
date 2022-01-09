@@ -40,6 +40,7 @@ To solidify the analysis, five visualizations were made to help support why a bi
 ![simple_bargraph](https://user-images.githubusercontent.com/90741799/148675005-5dc12a01-5bc8-4dc3-8efa-e3528ae2e26f.png)
 
 - The second visualization suggestion would be to make a packed bubble chart to show which demographic uses the bikeshare service the most and which uses it the least. This could be visually easier to see rather than using a heatmap.
+- 
 ![bubble_vis](https://user-images.githubusercontent.com/90741799/148675132-f8ebd12c-7f53-4b94-a8df-544ec09414bb.png)
 
 [link to dashboard](https://public.tableau.com/app/profile/cherrelle8612/viz/BikeshareChallengeDashboard/ChallengeDashboard?publish=yes)
